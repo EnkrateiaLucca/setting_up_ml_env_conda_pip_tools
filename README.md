@@ -47,3 +47,11 @@ conflicts that might exist
 ---
 
 ## 9. END! :)
+
+---
+
+### Credits
+
+- https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2021-labs
+- https://github.com/full-stack-deep-learning/conda-piptools
+- https://github.com/jazzband/pip-tools
