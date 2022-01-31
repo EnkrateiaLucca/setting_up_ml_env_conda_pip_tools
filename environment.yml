@@ -1,0 +1,7 @@
+name: setup_ml_env
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - cudatoolkit=10.2
+prefix: /home/lucassoares/anaconda3/envs/setup_ml_env
