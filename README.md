@@ -1,7 +1,7 @@
 # How To Set Up an Environment for Machine Learning with Conda and Pip-Tools
 
 ## Overview
-This is the repository for my Youtube Video: ... (add youtube video) where I go through how to set up a nice and robust machine learning environment using [conda](https://docs.anaconda.com/) and [pip-tools](https://github.com/jazzband/pip-tools).
+This is the repository for my Youtube Video that you can check out [here](https://www.youtube.com/watch?v=-lcJhz795H0&t=7s), also in article form [here](https://lucas-soares.medium.com/setting-up-an-environment-for-machine-learning-with-conda-pip-tools-9e163cb13b92) where I go through how to set up a nice and robust machine learning environment using [conda](https://docs.anaconda.com/) and [pip-tools](https://github.com/jazzband/pip-tools).
 
 ## 1. Create conda environment
 a. Specify Python version
